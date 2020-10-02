@@ -1,0 +1,25 @@
+.App {
+  font-family: "K2D", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.number {
+  font-size: 300px;
+}
+
+.unit {
+  font-size: 30px;
+}
+
+button {
+  margin: 5px;
+  padding: 20px;
+  font-size: 30px;
+  background: green;
+  color: white;
+  border-radius: 5px;
+}
